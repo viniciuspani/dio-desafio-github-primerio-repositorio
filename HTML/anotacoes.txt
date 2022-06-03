@@ -1,0 +1,8 @@
+SEMANTICA
+<section> secao generica de conteudo
+<header> cabeçalho da pagina
+<article> conteudo releventa
+<aside> conteudo relacionado ao conteudo principal
+<footer> rodape da pagina ou da section, article
+<h1-h6> Titulos com nivel de importancia
+<h1> so pode ter um por pagina
