@@ -2,8 +2,20 @@ Link para download do Git: https://git-scm.com/download/win
 
 O Git Bash é um terminal extendido para otimizar o uso do Git.
 
-Comandos basicos.
+## Comandos basicos.
 
-Clonar repositorio.
+ . Clonar repositorio.
 Abre o gitbash na pasta que deseja clonar.
 git clone
+
+ . Status do repositorio
+git status
+
+ . Adicionar arquivo ao repositorio
+git add . ou git add *
+
+. Commitar com mensagem
+git commit -m "mensagem"
+
+. Emputar do repositorio local para o remoto
+git push origin main ou master
